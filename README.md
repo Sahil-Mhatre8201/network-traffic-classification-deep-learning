@@ -53,7 +53,8 @@ Or download and run locally.
 
 ### 2. Upload the Dataset
 
-- Download `GCseq25.csv` from this repository
+- 📁 [Download Dataset (Google Drive)](https://drive.google.com/file/d/1l7Hm4ctEtXD1frqGPaRKsD_vMCR7ZFTb/view?usp=sharing)
+
 - Upload it manually in the Colab notebook when prompted, or place it in the same directory if running locally
 
 ### 3. Install Dependencies (if running locally)
